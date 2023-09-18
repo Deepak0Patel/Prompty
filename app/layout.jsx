@@ -7,6 +7,7 @@ export const metadata = {
   title: "Promptopia",
   description: "Discover & Share AI Prompts",
 };
+// delete kar dena
 
 const RootLayout = ({ children }) => (
   <html lang='en'>
